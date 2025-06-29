@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "AliceSW",
+    "author": "Bạn",
+    "version": 1,
+    "source": "https://www.alicesw.com",
+    "regexp": "^https?://(?:www\\.)?alicesw\\.com",
+    "description": "Đọc truyện từ AliceSW.com",
+    "local": "VN",
+    "language": "javascript",
+    "type": "novel"
+  },
+  "script": {
+    "home": "alice_home.js",
+    "search": "alice_search.js",
+    "detail": "alice_detail.js",
+    "toc": "alice_toc.js",
+    "chap": "alice_chap.js"
+  }
+}
